@@ -1,0 +1,28 @@
+.box {
+  background-color: rgb(14, 14, 168);
+  color: white;
+  border: 0px solid blue;
+}
+
+#but {
+  background-color: red;
+  border: 0px solid red;
+  color: white;
+}
+
+.DO {
+  background-color: yellow;
+  border: 0px solid yellow;
+  color: black;
+}
+
+#tex {
+  background-color: green;
+  color: white;
+  border: 0px solid green;
+}
+
+.sar {
+  font-family: sans-serif;
+  line-height: 50px;
+}
